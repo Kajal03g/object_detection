@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>4_3.jpg</filename>
+	<path>C:\Users\DELL\OneDrive\Desktop\Harting India\Obj_detection\objectdetection\images\train\4_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>163</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>17</ymin>
+			<xmax>222</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>
